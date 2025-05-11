@@ -1,0 +1,34 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #B45FFF;
+    color: #333;
+    margin: 40px;
+}
+
+h1 {
+    color: black;
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.intressen {
+    text-align: left;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.knapp-container {
+    text-align: center;
+    margin-top: 20px;
+}
